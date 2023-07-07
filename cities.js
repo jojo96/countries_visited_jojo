@@ -15,5 +15,6 @@ CITIES =
    {name: 'Bucharest', latitude: 44.426767, longitude: 26.102538, radius: 3, fillKey: 'city'},
    {name: 'Prague', latitude: 50.075538, longitude: 14.4378, radius: 3, fillKey: '2023-6'},
    {name: 'Krakow', latitude: 50.06465, longitude: 19.94498, radius: 3, fillKey: 'city'},
-   {name: 'Istanbul', latitude: 41.008238, longitude: 28.978359, radius: 3, fillKey: '2023-1'}
+   {name: 'Istanbul', latitude: 41.008238, longitude: 28.978359, radius: 3, fillKey: '2023-1'},
+   {name: 'Singapore', latitude: 1.3521, longitude: 103.8198, radius: 3, fillKey: '2023-1'}
 ]
